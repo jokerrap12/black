@@ -1251,7 +1251,7 @@ else
 		Text = Text:gsub('User_Points',nko)
 		sendMsg(msg.chat_id_,msg.id_,Flter_Markdown(Text))
 		else
-		sendMsg(msg.chat_id_,msg.id_,'❍الايدي بالصوره معطل \n❍𖤍-𝒏𝒂𝒎𝒆 ↝ '..Namei..'    \n𖤍-𝒖𝒔𝒆𝒓 ↝'..UserNameID..' .\n𖤍-𝒎𝒔𝒈𝒆 ↝'..msgs..' .\n𖤍-𝒔𝒕𝒂 ↝'..msg.TheRank..' .\n𖤍-𝘐𝘋  ↝'..msg.sender_user_id_..' .\n𖤍-𝒄𝒉 ↝ @SouRce_Sonic .')
+		sendMsg(msg.chat_id_,msg.id_,'❍الايدي بالصوره معطل \n❍𖤍-𝒏𝒂𝒎𝒆 ↝ '..Namei..'    \n𖤍-𝒖𝒔𝒆𝒓 ↝'..UserNameID..' .\n𖤍-𝒎𝒔𝒈𝒆 ↝'..msgs..' .\n𖤍-𝒔𝒕𝒂 ↝'..msg.TheRank..' .\n𖤍-𝘐𝘋  ↝'..msg.sender_user_id_..' .\n𖤍-𝒄𝒉 ↝ @BLACK_TEAM_1 .')
 		end
 end
 
